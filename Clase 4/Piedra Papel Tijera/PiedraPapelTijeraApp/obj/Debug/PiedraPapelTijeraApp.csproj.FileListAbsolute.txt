@@ -1,0 +1,10 @@
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\bin\Debug\PiedraPapelTijeraApp.exe.config
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\bin\Debug\PiedraPapelTijeraApp.exe
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\bin\Debug\PiedraPapelTijeraApp.pdb
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\obj\Debug\PiedraPapelTijeraApp.csproj.AssemblyReference.cache
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\obj\Debug\PiedraPapelTijeraApp.PiedraPapelTijera.resources
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\obj\Debug\PiedraPapelTijeraApp.Properties.Resources.resources
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\obj\Debug\PiedraPapelTijeraApp.csproj.GenerateResource.cache
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\obj\Debug\PiedraPapelTijeraApp.csproj.CoreCompileInputs.cache
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\obj\Debug\PiedraPapelTijeraApp.exe
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Piedra Papel Tijera\PiedraPapelTijeraApp\obj\Debug\PiedraPapelTijeraApp.pdb
