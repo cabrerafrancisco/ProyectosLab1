@@ -1,0 +1,10 @@
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\bin\Debug\GeneralaApp.exe.config
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\bin\Debug\GeneralaApp.exe
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\bin\Debug\GeneralaApp.pdb
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\obj\Debug\GeneralaApp.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\obj\Debug\GeneralaApp.frmGenerala.resources
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\obj\Debug\GeneralaApp.Properties.Resources.resources
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\obj\Debug\GeneralaApp.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\obj\Debug\GeneralaApp.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\obj\Debug\GeneralaApp.exe
+C:\Users\franc\Desktop\Analista en sistemas\Lab prog 1\Clase 4\Generala\GeneralaApp\obj\Debug\GeneralaApp.pdb
