@@ -1,0 +1,10 @@
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\obj\Debug\NumeroRandom.csproj.AssemblyReference.cache
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\obj\Debug\NumeroRandom.Properties.Resources.resources
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\obj\Debug\NumeroRandom.RandomForm.resources
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\obj\Debug\NumeroRandom.csproj.GenerateResource.cache
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\obj\Debug\NumeroRandom.csproj.CoreCompileInputs.cache
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\bin\Debug\NumeroRandom.exe.config
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\bin\Debug\NumeroRandom.exe
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\bin\Debug\NumeroRandom.pdb
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\obj\Debug\NumeroRandom.exe
+D:\Desktop\Analista en Sistemas - IES\Lab de Progarmacion\Clase 4\Numero-Random\NumeroRandom\obj\Debug\NumeroRandom.pdb
